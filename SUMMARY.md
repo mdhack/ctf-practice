@@ -6,6 +6,7 @@
 
 ## Problems
 
+* [\[Misc - 20\] Ding!](misc-20-ding.md)
 * [\[Misc - 15\] Where is this taken?](misc-15-where-is-this-taken.md)
 * [\[Cryptography - 30\] The randomness? ](cryptography-30-the-randomness.md)
 * [\[Reverse - 50\] I'm a Python!](reverse-50-im-a-python.md)
