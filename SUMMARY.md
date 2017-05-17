@@ -15,7 +15,7 @@
 
 ## Writeups
 
-* [\[Rev. Engr. - 50\] I'm a Python!](rev-engr-50-im-a-python.md)
+* [\[Reverse - 50\] I'm a Python!](rev-engr-50-im-a-python.md)
 * [\[Cipher - 30\] The randomness?](cipher-30-the-randomness.md)
 * [\[Misc - 15\] Where is this taken?](misc-15-where-is-this-taken1.md)
 
