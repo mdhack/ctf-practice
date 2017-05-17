@@ -12,3 +12,6 @@
 
 ## Writeups
 
+* [\[Cipher - 30\] The randomness?](cipher-30-the-randomness.md)
+* [\[Misc - 15\] Where is this taken?](misc-15-where-is-this-taken1.md)
+
