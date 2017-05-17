@@ -18,3 +18,5 @@ And the the flag is in the comments section!
 
 Easy 15 points!
 
+Made by: Konstantin T
+
