@@ -6,6 +6,7 @@
 
 ## Problems
 
+* [\[Forensics - 100\] Squaring Digits](forensics-100-squaring-digits.md)
 * [\[Reverse - 80\] Useless JavaScript](reverse-80-useless-javascript.md)
 * [\[Reverse - 60\] Trace my Java \#1](reverse-60-trace-my-java-1.md)
 * [\[Binary - 120\] Maybe Flag Discount Package](binary-120-maybe-flag-discount-package.md)
