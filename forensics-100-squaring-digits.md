@@ -9,5 +9,5 @@ The following sequence is created by continuously adding the square of the digit
 
 Therefore any sequence that arrives at 1 or 89 will become stuck in an endless loop. A little hint: EVERY starting number will eventually arrive at 1 or 89.
 
-**So, how many starting numbers below 15 million will arrive at 89?** You may use any method to solve this program, including brute forcing and logical approach. You must submit your code to solve this problem.
+**So, how many starting numbers below 15 million will arrive at 89?** You may use any method to solve this program, including brute forcing and logical approach. You must submit your code to solve this problem. You code can be in any language.
 
