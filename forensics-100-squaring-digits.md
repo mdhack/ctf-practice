@@ -11,7 +11,5 @@ We found a rule: any number that arrives at 1 or 89 will get stuck in an endless
 
 **So, how many starting numbers below 15 million will arrive at 89?** You may use any method to solve this program, including brute forcing and logical approach. You must submit your code to solve this problem. You code can be in any language.
 
-
-
-Submit code and answer to email: **hfor@hackersquad.tk**
+Submit code and answer to email: [**r@mdhc.tk**](mailto:r@mdhc.tk)
 
