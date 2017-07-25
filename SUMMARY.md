@@ -18,7 +18,6 @@
 ## Writeups
 
 * [\[Binary - 120\] Maybe Flag Discount Package](binary-50-maybe-flag-discount-package.md)
-* [\[Reverse - 50\] I'm a Python!](rev-engr-50-im-a-python.md)
 * [\[Cipher - 30\] The randomness?](cipher-30-the-randomness.md)
 * [\[Misc - 15\] Where is this taken?](misc-15-where-is-this-taken1.md)
 
